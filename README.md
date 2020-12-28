@@ -107,7 +107,6 @@ This is an example of how to list things you need to use the software and how to
    npm start
    ```
 4. Visit 
-
    
    `http://localhost:8080/`
 

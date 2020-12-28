@@ -1,0 +1,23 @@
+{
+  "name": "react-webpack-babel-setup",
+  "version": "1.0.0",
+  "description": "minimal version of React with personal perferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cltn39/react-webpack-babel-setup.git"
+  },
+  "keywords": [],
+  "author": "Chris Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cltn39/react-webpack-babel-setup/issues"
+  },
+  "homepage": "https://github.com/cltn39/react-webpack-babel-setup#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.10"
+  }
+}
