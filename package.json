@@ -19,5 +19,9 @@
   "homepage": "https://github.com/cltn39/react-webpack-babel-setup#readme",
   "devDependencies": {
     "@babel/preset-react": "^7.12.10"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
