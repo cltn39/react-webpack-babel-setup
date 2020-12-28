@@ -4,6 +4,7 @@
   "description": "minimal version of React with personal perferences",
   "main": "index.js",
   "scripts": {
+    "start": "webpack serve --config ./webpack.config.js --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +19,14 @@
   },
   "homepage": "https://github.com/cltn39/react-webpack-babel-setup#readme",
   "devDependencies": {
-    "@babel/preset-react": "^7.12.10"
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "react-hot-loader": "^4.13.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "react": "^17.0.1",
