@@ -77,7 +77,7 @@
 - [`@babel/preset-env`](https://babeljs.io/docs/en/babel-preset-env) - Smart defaults for Babel 
 - [`@babel/preset-react`](https://babeljs.io/docs/en/babel-preset-react) - React configuration for Babel 
 
-### Loaders
+<!-- ### Loaders -->
 
 <!-- - [`babel-loader`](https://webpack.js.org/loaders/babel-loader/) - Transpile files with Babel and webpack 
 - [`sass-loader`](https://webpack.js.org/loaders/sass-loader/) - Load SCSS and compile to CSS
@@ -148,7 +148,7 @@ _For more examples, please refer to the [Documentation](https://github.com/cltn3
 
 ## Roadmap
 
-This section is currently under development
+At the moment, the boilerplate only allows single production stage--if there's any--. Possible procution/development stage set up soon
 
 <!-- See the [open issues](link) for a list of proposed features (and known issues). -->
 
